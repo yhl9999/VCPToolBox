@@ -1,9 +1,5 @@
 {
-  "displayName": "文本到图像 (基础)",
-  "description": "基础的文本到图像生成工作流",
-  "version": "1.0",
-  "workflow":{
-  "3": {
+"3": {
     "inputs": {
       "seed": "{{SEED}}",
       "steps": "{{STEPS}}",
@@ -108,5 +104,4 @@
       "title": "保存图像"
     }
   }
-}
 }
